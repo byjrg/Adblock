@@ -1,0 +1,485 @@
+! Title: Mis Filtros
+! Expires: 1 day (update frequency)
+! Description: Mis filtros
+! Homepage: https://github.com/JustLurkingHere/adblock/tree/main
+! License: MIT; https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/blob/main/LICENSE
+! Last modified: 
+! Version: 23.12.10
+
+! 2021-03-14 https://daddylive.co
+daddylive.co##div.card:nth-of-type(1)
+daddylive.co##div.alert-dismissible.alert-success.alert:nth-of-type(2)
+
+! 2021-03-14 https://telerium.digital
+telerium.digital##.clappr-watermark
+telerium.digital##.media-control-center-panel
+telerium.digital##.media-control-hide.live.media-control
+
+! 2021-03-15 https://gfycat.com
+gfycat.com##.main-nav-bar.nav-bar
+
+! 2021-03-15 https://www.youtube.com
+www.youtube.com##.ytp-ce-covering-overlay
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280
+www.youtube.com##.ytp-chrome-top-buttons
+
+! 2021-03-16 https://web.additioapp.com
+web.additioapp.com##.hsds-beacon
+
+! 2021-03-16 http://www.mamahd.live
+www.mamahd.live##.container > .row > .col-md-3
+www.mamahd.live##.clearfix.meta-box
+
+! 2021-03-18 https://twitter.com
+twitter.com##.r-1knelpx.r-ymttw5.r-1l7z4oj.r-hv52eu.r-z2wwpe.r-1uaug3w.r-1awozwy.css-1dbjc4n
+
+! 2021-03-18 https://www.elmundo.es
+www.elmundo.es##.premium.banda_suscripcion
+www.elmundo.es##.ue-c-article__premium
+www.elmundo.es##.ue-c-cover-content__comments
+
+! 2021-03-18 https://elpais.com
+elpais.com##.comments_link
+
+! 2021-03-18 https://www.last.fm
+www.last.fm##.player-bar-inner-wrap
+www.last.fm##.mpu-subscription-upsell--mpu
+
+! 2021-03-18 https://www.youtube.com
+www.youtube.com###country-code
+
+! 2021-03-20 https://www.marca.com
+www.marca.com##.mod-comments
+www.marca.com##.ue-scoreboard-ad-scoreboard
+www.marca.com##.banda_suscripcion
+www.marca.com##.tools-corporative-subscription
+
+! 2021-04-04 https://red.soccerstreams.net
+red.soccerstreams.net##.container > .justify-content-center.row
+
+! 2021-04-05 https://flickr.com
+flickr.com##.facade-of-protection-zoom
+
+! 2021-04-11 https://embed.vdtgr.com
+embed.vdtgr.com##[href="javascript:location.reload()"]
+
+! 2021-04-12 https://www.youtube.com
+www.youtube.com###clarify-box
+
+! 2021-04-14 https://www.strikeout.nu
+www.strikeout.nu##.text-center.h-100.w-100
+
+! 2021-04-14 https://weibo.com
+weibo.com##.clearfix.tips_warn.W_tips
+
+! 2021-04-16 https://www.lne.es
+www.lne.es##.no-baldomero.commercial-up-full
+
+! 2021-04-17 https://intelsportz.xyz
+intelsportz.xyz###ad_overlayy
+
+! 2021-04-23 https://www.lne.es
+www.lne.es##.breaking-news
+
+! 2021-04-23 https://www.elmundo.es
+www.elmundo.es##.ue-c-subscription-ad
+www.elmundo.es##.servicios_vwo.ue-l-cover-grid
+
+! 2021-04-23 https://blogs.elconfidencial.com
+blogs.elconfidencial.com##.skinRevenue
+
+! 2021-04-24 https://reddt1.soccerstreams.net
+reddt1.soccerstreams.net##.col-12
+
+! 2021-04-24 https://okdiario.com
+okdiario.com##.publicidad
+okdiario.com##.support_button
+okdiario.com##.socios-okclub
+
+! 2021-05-01 https://teleriumtv.net
+teleriumtv.net###overlay
+teleriumtv.net##.clappr-watermark
+teleriumtv.net##.media-control-hide.live.media-control
+
+! 2021-05-11 https://gfycat.com
+gfycat.com##.pro-cta
+
+! 2021-05-23 https://www.tumblr.com
+www.tumblr.com##.site-notification-security-checkup.site-notification
+
+! 2021-05-30 https://www.scmp.com
+www.scmp.com###credential_picker_container
+
+! 2021-06-04 https://www.lne.es
+www.lne.es##.no-baldomero.ad
+
+! 2021-06-10 https://www.lne.es
+www.lne.es##.sk--sponsored-by
+www.lne.es##.sk--offered-by
+
+! 2021-06-19 https://elpais.com
+elpais.com##.justify_end.align_items_center.flex.tablet_3.desktop_4.col
+elpais.com##.header_user
+
+! 2021-06-20 https://www.genbeta.com
+www.genbeta.com##.section-newsletter
+www.genbeta.com##.home-video-stream-container
+
+! 2021-07-09 https://www.marca.com
+www.marca.com##.branded-content
+
+! 2021-07-29 https://www.genbeta.com
+www.genbeta.com##.article-asset-normal.video-boost-container
+
+! 2021-07-30 https://es.mydramalist.com
+es.mydramalist.com##.is-desktop.spnsr-flex-2130
+
+! 2021-08-25 https://www.leparisien.fr
+www.leparisien.fr##.fixed-size-ad
+
+! 2021-09-02 https://colonist.io
+colonist.io##.in-game-ad-right
+colonist.io##.in-game-ad-left
+
+! 2021-09-08 https://goplay.pw
+goplay.pw##div#indexannouncementhead:nth-of-type(2)
+
+! 2021-09-08 https://es.mydramalist.com
+es.mydramalist.com##.no-gutter.spnsr-row
+es.mydramalist.com##.is-desktop
+es.mydramalist.com##.spnsr
+
+! 2021-09-30 https://mydramalist.com
+mydramalist.com##.btn-block.white.btn-amazon.btn-sm.btn
+
+! 2021-10-07 https://goplay.pw
+goplay.pw##div#indexannouncementhead:nth-of-type(1)
+
+! 2021-10-25 http://kshow123.net
+||kshow123.net/logo.png$image
+
+! 2021-11-02 https://elpais.com
+elpais.com##.ad
+
+! 2021-11-04 https://www.mundoplus.tv
+www.mundoplus.tv###skyscraper
+
+! 2021-11-10 https://flickr.com
+flickr.com##.moola-search-view
+
+! 2021-12-18 https://weibo.com
+weibo.com##.TipsAd_bottomGap_1P4hW
+
+! 2021-12-25 https://elpais.com
+elpais.com##button.btn-u
+elpais.com##.b-bra
+
+! 2021-12-29 https://goplay.pw
+goplay.pw##widgetbot-crate
+
+! 2022-02-08 https://gfycat.com
+gfycat.com##.section--top
+
+! 2022-04-23 https://elpais.com
+elpais.com##.w-cta
+elpais.com##._df.x_u
+elpais.com##.icon_elpais_ico
+
+! 2022-06-14 https://as.com
+as.com##.ad
+as.com##.area--stories
+as.com##.wdt-radio
+as.com##.cta-apts-wr
+
+! 2022-06-17 http://osen.mt.co.kr
+osen.mt.co.kr##.galleryTopBox
+
+! 2022-08-10 https://tiroalpalo.com
+tiroalpalo.com###r29e
+
+! 2022-08-23 https://best.aliexpress.com
+best.aliexpress.com##div:nth-of-type(9)
+
+! 2022-08-30 https://www.last.fm
+www.last.fm##.buffer-2
+www.last.fm##.listening-report-promo--month
+www.last.fm##.user-dashboard--flex.user-dashboard-col.col-sm-4
+
+! 2022-09-02 https://www.last.fm
+www.last.fm##.features-footer-items
+
+! 2022-09-05 https://cr7soccer.club
+cr7soccer.club##[href="https://cr7soccer.club"]
+
+! 2022-09-07 https://www.xatakamovil.com
+www.xatakamovil.com##.base-asset-video
+
+! 2022-09-08 https://www.flightradar24.com
+www.flightradar24.com##.upgrade-button
+
+! 2022-09-12 https://www.marca.com
+www.marca.com##.main-highlight-radio
+
+! 2022-09-27 https://www.tvtime.com
+www.tvtime.com###get-the-app
+www.tvtime.com##.social
+
+! 2022-09-27 https://es.wikipedia.org
+es.wikipedia.org###siteNotice
+
+! 2022-09-29 https://www.marca.com
+www.marca.com##.ue-c-cover-content--is-branded
+
+! 2022-09-30 https://as.com
+as.com##.nwl
+
+! 2022-10-17 https://mdpr.jp
+||img-mdpr.freetls.fastly.net/common/web/common/img_protect.png$image
+
+! 2022-10-17 https://www.atresplayer.com
+||statics.atresmedia.com/atresplayer/assets/web/images/player/mosca.png$image
+
+! 2022-10-23 https://www.mundoplus.tv
+www.mundoplus.tv##.adsbygoogle
+www.mundoplus.tv###wrap > .adsbygoogle
+
+! 2022-10-23 https://gezip.net
+gezip.net##.at-main.at-col.col-md-9 > .adsbygoogle
+
+! 2022-10-25 http://yjtv365.com
+yjtv365.com##.main-latest
+
+! 2022-11-01 https://www.elmundo.es
+www.elmundo.es##.ue-c-video-player-frame--pip.ue-c-video-player-frame
+
+! 2022-11-01 https://www.marca.com
+www.marca.com##.ue-c-video-player-frame--pip.ue-c-video-player-frame
+www.marca.com##.ue-c-cover-content__comments
+
+! 2022-11-02 https://www.sofascore.com
+www.sofascore.com##.cxFYip.sc-hLBbgP
+www.sofascore.com##.eSTxMM.sc-hLBbgP
+www.sofascore.com##.fYeeIP.sc-hLBbgP
+www.sofascore.com##.cTyvXk.sc-hLBbgP
+www.sofascore.com##.qfXKH.sc-hLBbgP
+www.sofascore.com##.eHLrgj.sc-hLBbgP
+
+! 2022-11-02 https://as.com
+as.com##.spr--bmw.spr-by--bc.spr-by
+
+! 2022-11-03 https://jjtv.kr
+jjtv.kr###fboardlist > .adsbygoogle
+
+! 2022-11-03 https://www.mundodeportivo.com
+www.mundodeportivo.com###gg-alert
+www.mundodeportivo.com##.subscription
+
+! 2022-11-03 https://sfntv.xyz
+sfntv.xyz##.chatbro_header_rotare_to_bottom.chatbro_movable_chat.chatbro_minimized_chat
+
+! 2022-11-06 https://www.sofascore.com
+www.sofascore.com##.kahACT.sc-eDWCr
+www.sofascore.com##.fbSWpy.sc-cabffeca-2.fOCbiM.sc-hLBbgP > .duabap.sc-c44c026a-0.eDyocQ.sc-hLBbgP
+
+! 2022-11-09 https://crytonep.github.io
+crytonep.github.io##.alert
+
+! 2022-11-11 https://www.tiktok.com
+www.tiktok.com##.tiktok-1vrbodl-DivPromotionContainer
+
+! 2022-12-07 https://www.youtube.com
+www.youtube.com###premium-upsell-link
+
+! 2022-12-09 https://www.lavozdeasturias.es
+www.lavozdeasturias.es##.usuarioAnonimo.no-visible
+
+! 2022-12-12 https://www.relevo.com
+www.relevo.com##.advertising
+
+! 2022-12-13 https://myanimelist.net
+myanimelist.net##.btn-mal-service
+
+! 2022-12-14 https://as.com
+as.com##.spr-by
+
+! 2022-12-25 http://sang007.com
+sang007.com##.main-latest
+
+! 2022-12-25 https://myanimelist.net
+myanimelist.net##.malicon-streaming.malicon
+myanimelist.net##.icon-gift
+
+! 2022-12-25 https://www.instagram.com
+www.instagram.com##._aato._aagu > ._aagw
+
+! 2022-12-29 https://www.dieselogasolina.com
+www.dieselogasolina.com###cookie_consent_layer
+
+! 2023-01-07 https://www.instagram.com
+www.instagram.com##article div:has-text(/Sponsored/i):upward(article):style(border:5px dotted yellow !important; width:50% !important)
+
+! 2023-01-11 https://www.filmaffinity.com
+www.filmaffinity.com##.adver-wrapper
+
+! 2023-02-06 https://www.tumblr.com
+www.tumblr.com##.xkit-drafts-plus-publish
+www.tumblr.com##.xkit-drafts-plus-edit
+
+! 2023-02-16 https://www.lne.es
+www.lne.es##.new__tag
+www.lne.es##a.btn-header-premium
+www.lne.es###block-zero-branded-2
+www.lne.es##.branded-grouping
+www.lne.es##[src="/assets/images/premium/circle-plus.svg"]
+www.lne.es##.grp__header__sponsorship
+www.lne.es##.grp--branded-style
+
+! 2023-02-17 https://futbol-tv.online
+futbol-tv.online##.btn-md.btn-block.btn-lg.btn
+futbol-tv.online##h3
+futbol-tv.online##div > .col
+futbol-tv.online##center > h2
+
+! 2023-02-18 https://rusticotv.online
+rusticotv.online##.text-center.mx-auto.pb-md-4.pt-md-5.py-3.px-3.pricing-header
+
+! 2023-02-18 https://pelotalibre.com
+pelotalibre.com##.text-center.mx-auto.pb-md-4.pt-md-5.py-3.px-3.pricing-header
+
+! 2023-02-28 https://www.elmundo.es
+www.elmundo.es##.pn-subscription-wrapper
+
+! 2023-03-02 https://yaytext.com
+yaytext.com##.section.title_section
+
+! 2023-03-08 http://futboltvhd.live
+futboltvhd.live##.photo
+
+! 2023-03-08 https://www.elcomercio.es
+www.elcomercio.es##.v-op__icon
+www.elcomercio.es##.v-mdl-bsn--ldk
+
+! 2023-03-10 https://www.larazon.es
+www.larazon.es##.advertising.container
+www.larazon.es##.advertising
+
+! 2023-03-11 https://www.theguardian.com
+www.theguardian.com##.ad-slot-container
+www.theguardian.com##.top-banner-ad-container
+
+! 2023-03-11 https://www.elcomercio.es
+www.elcomercio.es##.v-h__user
+
+! 2023-03-14 https://imgur.com
+imgur.com##.Gallery-Sidebar
+imgur.com##.Gallery-Content-BottomAd
+imgur.com##.CommentsList
+imgur.com##.BottomAd-container
+imgur.com##.BottomRecirc
+imgur.com##.Footer-wrapper
+imgur.com##.GalleryVote-accoladesAnimate
+imgur.com##.Navigation-Container
+imgur.com##.Button.EmeraldButton
+
+! 2023-03-17 https://www.cuatro.com
+www.cuatro.com##.watermarks__wrapper-1FZ2
+
+! 2023-03-22 https://twitter.com
+twitter.com##.tmd-down.tmd-img
+
+! 2023-03-23 http://futboltvhd.live
+futboltvhd.live##center > center
+
+! 2023-03-24 https://cruzroja-lms.cclearning.accenture.com
+cruzroja-lms.cclearning.accenture.com###section-0 > .content > .summary
+
+! 2023-03-31 https://bard.google.com
+bard.google.com##.user-icon
+
+! 2023-04-01 https://www.elcomercio.es
+www.elcomercio.es##.v-stk-adv
+
+! 2023-04-12 https://www.google.com
+www.google.com##.M8H8pb
+
+! 2023-04-12 
+||accounts.google.com/gsi/*$xhr,script,3p
+
+! 2023-04-18 https://www.twitch.tv
+www.twitch.tv##.video-preview-card-restriction
+
+! 2023-04-24 https://www.atresplayer.com
+www.atresplayer.com##.style__StyledAdBlocker-sc-172oy2y-0
+
+! 2023-05-18 https://megadeportes.xyz
+megadeportes.xyz##.btn-md.btn-block.btn-lg.btn
+megadeportes.xyz##.border-top.pt-md-5.my-md-5.pt-4
+megadeportes.xyz##body > center
+megadeportes.xyz##h3
+
+! 2023-06-19 https://www.youtube.com
+www.youtube.com##.style-default.ytd-masthead.style-scope
+
+! 2023-07-17 https://www.bilibili.tv
+www.bilibili.tv##.ip-watermark
+
+! 2023-08-20 https://megadeportes.xyz
+megadeportes.xyz##.items-end.flex-col.flex.md\:col-span-2
+
+! 2023-08-22 https://as.com
+as.com##.w_bsc.bscy
+
+! 2023-08-30 https://www.lne.es
+www.lne.es###pmMarketing_1
+
+! 2023-09-01 https://discord.com
+discord.com##.buttons-uaqb-5 > .grow-2T4nbg.colorBrand-2M3O3N.lookBlank-FgPMy6.button-ejjZWC
+discord.com##li.container-32HW5s.channel-1Shao0:nth-of-type(2)
+
+! 2023-10-25 https://www.youtube.com
+www.youtube.com###voice-search-button
+
+! 2023-10-26 https://discord.com
+discord.com##.buttons_ce5b56 > .grow__4c8a4.colorBrand_b2253e.lookBlank__7ca0a.button_afdfd9
+
+! 2023-11-03 https://dlhd.sx
+dlhd.sx###sidebar
+dlhd.sx###featured
+dlhd.sx##p
+
+! 2023-11-05 https://www.google.com
+www.google.com###before-appbar
+
+! 2023-11-05 https://www.mirror.co.uk
+www.mirror.co.uk##.ad-placeholder
+
+! 2023-11-05 https://www.thesun.co.uk
+www.thesun.co.uk##.widget_thesun_dfp_ad_widget
+
+! 2023-11-08 https://www.reddit.com
+www.reddit.com##embed-snippet-share-button
+
+! 2023-11-22 https://www.youtube.com
+youtube.com##+js(nano-stb, resolve(1), *, 0.001)
+youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_enable_ab_rsp_cl, false)
+
+! 2023-11-26 https://megadeportes.xyz
+megadeportes.xyz##.pad-0.col-xl-4.col-12
+megadeportes.xyz##.chat-container
+megadeportes.xyz##.card-center.card
+megadeportestv2.com##.pad-0.col-xl-4.col-12
+megadeportestv2.com##.chat-container
+megadeportestv2.com##.card-center.card
+
+! 2023-11-26 https://elpais.com
+elpais.com##._pr.c_t_i-s
+
+! 2023-11-26 https://www.lne.es
+www.lne.es##.header--claim
+
+! 2023-11-28 https://www.reddit.com
+www.reddit.com##.object-cover.opacity-30
+
+! 2023-11-28 https://www.atresplayer.com
+||statics.atresmedia.com/atresplayer/assets/web/images/player/wide-mosca.png$image
+
