@@ -483,3 +483,10 @@ www.reddit.com##.object-cover.opacity-30
 ! 2023-11-28 https://www.atresplayer.com
 ||statics.atresmedia.com/atresplayer/assets/web/images/player/wide-mosca.png$image
 
+! 2023-12-13 https://www.lne.es
+www.lne.es##.sponsorship
+
+! 2023-12-13 https://www.elcomercio.es
+www.elcomercio.es##.v-c.v-h__on
+
+
