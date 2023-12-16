@@ -1,22 +1,9 @@
 ! Title: Mis Filtros
 ! Expires: 1 day (update frequency)
-! Description: Mis filtros
+! Description: Filtros
 ! Homepage: https://github.com/JustLurkingHere/adblock/tree/main
-! License: MIT; https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/blob/main/LICENSE
-! Last modified: 
-! Version: 23.12.10
-
-! 2021-03-14 https://daddylive.co
-daddylive.co##div.card:nth-of-type(1)
-daddylive.co##div.alert-dismissible.alert-success.alert:nth-of-type(2)
-
-! 2021-03-14 https://telerium.digital
-telerium.digital##.clappr-watermark
-telerium.digital##.media-control-center-panel
-telerium.digital##.media-control-hide.live.media-control
-
-! 2021-03-15 https://gfycat.com
-gfycat.com##.main-nav-bar.nav-bar
+! License: MIT; https://github.com/JustLurkingHere/adblock/tree/main
+! Version: 23.12.16
 
 ! 2021-03-15 https://www.youtube.com
 www.youtube.com##.ytp-ce-covering-overlay
@@ -25,13 +12,6 @@ www.youtube.com##.ytp-chrome-top-buttons
 
 ! 2021-03-16 https://web.additioapp.com
 web.additioapp.com##.hsds-beacon
-
-! 2021-03-16 http://www.mamahd.live
-www.mamahd.live##.container > .row > .col-md-3
-www.mamahd.live##.clearfix.meta-box
-
-! 2021-03-18 https://twitter.com
-twitter.com##.r-1knelpx.r-ymttw5.r-1l7z4oj.r-hv52eu.r-z2wwpe.r-1uaug3w.r-1awozwy.css-1dbjc4n
 
 ! 2021-03-18 https://www.elmundo.es
 www.elmundo.es##.premium.banda_suscripcion
@@ -54,29 +34,20 @@ www.marca.com##.ue-scoreboard-ad-scoreboard
 www.marca.com##.banda_suscripcion
 www.marca.com##.tools-corporative-subscription
 
-! 2021-04-04 https://red.soccerstreams.net
-red.soccerstreams.net##.container > .justify-content-center.row
-
 ! 2021-04-05 https://flickr.com
 flickr.com##.facade-of-protection-zoom
-
-! 2021-04-11 https://embed.vdtgr.com
-embed.vdtgr.com##[href="javascript:location.reload()"]
 
 ! 2021-04-12 https://www.youtube.com
 www.youtube.com###clarify-box
 
 ! 2021-04-14 https://www.strikeout.nu
-www.strikeout.nu##.text-center.h-100.w-100
+www.strikeout.im##.text-center.h-100.w-100
 
 ! 2021-04-14 https://weibo.com
 weibo.com##.clearfix.tips_warn.W_tips
 
 ! 2021-04-16 https://www.lne.es
 www.lne.es##.no-baldomero.commercial-up-full
-
-! 2021-04-17 https://intelsportz.xyz
-intelsportz.xyz###ad_overlayy
 
 ! 2021-04-23 https://www.lne.es
 www.lne.es##.breaking-news
@@ -88,21 +59,10 @@ www.elmundo.es##.servicios_vwo.ue-l-cover-grid
 ! 2021-04-23 https://blogs.elconfidencial.com
 blogs.elconfidencial.com##.skinRevenue
 
-! 2021-04-24 https://reddt1.soccerstreams.net
-reddt1.soccerstreams.net##.col-12
-
 ! 2021-04-24 https://okdiario.com
 okdiario.com##.publicidad
 okdiario.com##.support_button
 okdiario.com##.socios-okclub
-
-! 2021-05-01 https://teleriumtv.net
-teleriumtv.net###overlay
-teleriumtv.net##.clappr-watermark
-teleriumtv.net##.media-control-hide.live.media-control
-
-! 2021-05-11 https://gfycat.com
-gfycat.com##.pro-cta
 
 ! 2021-05-23 https://www.tumblr.com
 www.tumblr.com##.site-notification-security-checkup.site-notification
@@ -137,13 +97,6 @@ es.mydramalist.com##.is-desktop.spnsr-flex-2130
 ! 2021-08-25 https://www.leparisien.fr
 www.leparisien.fr##.fixed-size-ad
 
-! 2021-09-02 https://colonist.io
-colonist.io##.in-game-ad-right
-colonist.io##.in-game-ad-left
-
-! 2021-09-08 https://goplay.pw
-goplay.pw##div#indexannouncementhead:nth-of-type(2)
-
 ! 2021-09-08 https://es.mydramalist.com
 es.mydramalist.com##.no-gutter.spnsr-row
 es.mydramalist.com##.is-desktop
@@ -151,9 +104,6 @@ es.mydramalist.com##.spnsr
 
 ! 2021-09-30 https://mydramalist.com
 mydramalist.com##.btn-block.white.btn-amazon.btn-sm.btn
-
-! 2021-10-07 https://goplay.pw
-goplay.pw##div#indexannouncementhead:nth-of-type(1)
 
 ! 2021-10-25 http://kshow123.net
 ||kshow123.net/logo.png$image
@@ -177,9 +127,6 @@ elpais.com##.b-bra
 ! 2021-12-29 https://goplay.pw
 goplay.pw##widgetbot-crate
 
-! 2022-02-08 https://gfycat.com
-gfycat.com##.section--top
-
 ! 2022-04-23 https://elpais.com
 elpais.com##.w-cta
 elpais.com##._df.x_u
@@ -194,9 +141,6 @@ as.com##.cta-apts-wr
 ! 2022-06-17 http://osen.mt.co.kr
 osen.mt.co.kr##.galleryTopBox
 
-! 2022-08-10 https://tiroalpalo.com
-tiroalpalo.com###r29e
-
 ! 2022-08-23 https://best.aliexpress.com
 best.aliexpress.com##div:nth-of-type(9)
 
@@ -208,9 +152,6 @@ www.last.fm##.user-dashboard--flex.user-dashboard-col.col-sm-4
 ! 2022-09-02 https://www.last.fm
 www.last.fm##.features-footer-items
 
-! 2022-09-05 https://cr7soccer.club
-cr7soccer.club##[href="https://cr7soccer.club"]
-
 ! 2022-09-07 https://www.xatakamovil.com
 www.xatakamovil.com##.base-asset-video
 
@@ -219,10 +160,6 @@ www.flightradar24.com##.upgrade-button
 
 ! 2022-09-12 https://www.marca.com
 www.marca.com##.main-highlight-radio
-
-! 2022-09-27 https://www.tvtime.com
-www.tvtime.com###get-the-app
-www.tvtime.com##.social
 
 ! 2022-09-27 https://es.wikipedia.org
 es.wikipedia.org###siteNotice
@@ -333,18 +270,6 @@ www.lne.es##.branded-grouping
 www.lne.es##[src="/assets/images/premium/circle-plus.svg"]
 www.lne.es##.grp__header__sponsorship
 www.lne.es##.grp--branded-style
-
-! 2023-02-17 https://futbol-tv.online
-futbol-tv.online##.btn-md.btn-block.btn-lg.btn
-futbol-tv.online##h3
-futbol-tv.online##div > .col
-futbol-tv.online##center > h2
-
-! 2023-02-18 https://rusticotv.online
-rusticotv.online##.text-center.mx-auto.pb-md-4.pt-md-5.py-3.px-3.pricing-header
-
-! 2023-02-18 https://pelotalibre.com
-pelotalibre.com##.text-center.mx-auto.pb-md-4.pt-md-5.py-3.px-3.pricing-header
 
 ! 2023-02-28 https://www.elmundo.es
 www.elmundo.es##.pn-subscription-wrapper
@@ -489,4 +414,6 @@ www.lne.es##.sponsorship
 ! 2023-12-13 https://www.elcomercio.es
 www.elcomercio.es##.v-c.v-h__on
 
-
+! 2023-12-16 https://playdede.us
+playdede.us##[href^="https://vario.tv/"]
+playdede.us##.container > .module
