@@ -3,7 +3,7 @@
 ! Description: Filtros
 ! Homepage: https://github.com/JustLurkingHere/adblock/tree/main
 ! License: MIT; https://github.com/JustLurkingHere/adblock/tree/main
-! Version: 23.12.16
+! Version: 23.12.21
 
 ! 2021-03-15 https://www.youtube.com
 www.youtube.com##.ytp-ce-covering-overlay
@@ -417,3 +417,8 @@ www.elcomercio.es##.v-c.v-h__on
 ! 2023-12-16 https://playdede.us
 playdede.us##[href^="https://vario.tv/"]
 playdede.us##.container > .module
+
+! 2023-12-21 https://www.sport.es
+www.sport.es##.ft-ad
+www.sport.es##._mo_recs_tpi
+www.sport.es##.footer-mediaBottom
