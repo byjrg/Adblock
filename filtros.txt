@@ -422,3 +422,6 @@ playdede.us##.container > .module
 www.sport.es##.ft-ad
 www.sport.es##._mo_recs_tpi
 www.sport.es##.footer-mediaBottom
+
+! 2023-12-21 https://goplay.pw
+goplay.pw###indexannouncementhead
