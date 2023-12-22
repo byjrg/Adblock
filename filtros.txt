@@ -1,9 +1,9 @@
 ! Title: Mis Filtros
 ! Expires: 1 day (update frequency)
-! Description: Filtros
+! Description: Filtros para uBlock Origin
 ! Homepage: https://github.com/JustLurkingHere/adblock/tree/main
 ! License: MIT; https://github.com/JustLurkingHere/adblock/tree/main
-! Version: 23.12.21
+! Version: 23.12.22
 
 ! 2021-03-15 https://www.youtube.com
 www.youtube.com##.ytp-ce-covering-overlay
