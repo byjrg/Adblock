@@ -425,3 +425,13 @@ www.sport.es##.footer-mediaBottom
 
 ! 2023-12-21 https://goplay.pw
 goplay.pw###indexannouncementhead
+
+! 2023-12-23 https://www.elmundo.es
+www.elmundo.es##.ue-c-ad__inner
+
+! 2023-12-25 https://elpais.com
+elpais.com##._dib
+
+! 2023-12-28 https://discord.com
+discord.com##[href*="/store"]
+discord.com##[href*="/shop"]
