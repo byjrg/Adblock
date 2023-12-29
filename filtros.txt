@@ -416,7 +416,6 @@ www.elcomercio.es##.v-c.v-h__on
 
 ! 2023-12-16 https://playdede.us
 playdede.us##[href^="https://vario.tv/"]
-playdede.us##.container > .module
 
 ! 2023-12-21 https://www.sport.es
 www.sport.es##.ft-ad
