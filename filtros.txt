@@ -437,3 +437,12 @@ discord.com##[href*="/shop"]
 
 ! 2023-12-30 https://www.lequipe.fr
 www.lequipe.fr##.AmPlaceholder
+
+! 2023-12-21 https://www.sport.es
+www.sport.es##.ft-ad
+www.sport.es##._mo_recs_tpi
+www.sport.es##.footer-mediaBottom
+
+! 2024-01-01 https://www.bbc.com
+www.bbc.com##.leaderboard-ad-placeholder
+www.bbc.com##.dotcom-ad
