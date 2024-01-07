@@ -446,3 +446,15 @@ www.sport.es##.footer-mediaBottom
 ! 2024-01-01 https://www.bbc.com
 www.bbc.com##.leaderboard-ad-placeholder
 www.bbc.com##.dotcom-ad
+
+! 2024-01-01 https://www.thesun.co.uk
+www.thesun.co.uk##.advert-wrapper
+
+! 2024-01-04 https://viajes.nationalgeographic.com.es
+viajes.nationalgeographic.com.es##.slide-ad
+
+! 2024-01-04 https://www.lavozdeasturias.es
+www.lavozdeasturias.es##.stickyVocento
+
+! 2024-01-07 https://www.lne.es
+www.lne.es##.wneomotoro
