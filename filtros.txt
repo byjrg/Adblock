@@ -458,3 +458,9 @@ www.lavozdeasturias.es##.stickyVocento
 
 ! 2024-01-07 https://www.lne.es
 www.lne.es##.wneomotoro
+
+! 2024-01-06 https://megadeportestv2.com
+megadeportestv2.com##.text-center.d-flex.alert
+
+! 2024-01-11 https://twitter.com
+twitter.com##[href*="https://help.twitter.com/forms/dsa/report?"]
