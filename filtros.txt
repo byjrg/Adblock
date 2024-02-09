@@ -464,3 +464,10 @@ megadeportestv2.com##.text-center.d-flex.alert
 
 ! 2024-01-11 https://twitter.com
 twitter.com##[href*="https://help.twitter.com/forms/dsa/report?"]
+
+! 2024-02-02 https://es.scribd.com
+es.scribd.com##.promo_div
+
+! 2024-02-09 https://www.rtpa.es
+www.rtpa.es##.padding-t-20
+www.rtpa.es##.padding-t-30
