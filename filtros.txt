@@ -1,9 +1,9 @@
 ! Title: Mis Filtros
 ! Expires: 1 day (update frequency)
 ! Description: Filtros para uBlock Origin
-! Homepage: https://github.com/JustLurkingHere/adblock/tree/main
-! License: MIT; https://github.com/JustLurkingHere/adblock/tree/main
-! Version: 24.01.07
+! Homepage: https://github.com/byjrg/adblock/tree/main
+! License: MIT; https://github.com/byjrg/adblock/tree/main
+! Version: 24.04.10
 
 ! 2021-03-15 https://www.youtube.com
 www.youtube.com##.ytp-ce-covering-overlay
@@ -471,3 +471,11 @@ es.scribd.com##.promo_div
 ! 2024-02-09 https://www.rtpa.es
 www.rtpa.es##.padding-t-20
 www.rtpa.es##.padding-t-30
+
+! 2024-02-27 https://www.youtube.com
+www.youtube.com##ytd-reel-shelf-renderer
+
+! 2024-03-11 https://www.lavozdeasturias.es
+www.lavozdeasturias.es##.adpos
+www.lavozdeasturias.es##.box_urgente
+www.lavozdeasturias.es##.art-cl-patrocinio
