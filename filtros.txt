@@ -482,3 +482,6 @@ www.lavozdeasturias.es##.art-cl-patrocinio
 
 ! 2024-04-18 https://teditv.telecable.es
 teditv.telecable.es##li.cursor-pointer.hovered-element.statusChannel-overlay.ng-isolate-scope.ng-scope.float-left.wrap.book-font-type.secondary-bg-color.live-item
+
+! 2024-05-02 https://new.reddit.com
+new.reddit.com##._1dBtowHdRHcGyLbVEaOL8t
