@@ -3,7 +3,7 @@
 ! Description: Filtros para uBlock Origin
 ! Homepage: https://github.com/byjrg/adblock/tree/main
 ! License: MIT; https://github.com/byjrg/adblock/tree/main
-! Version: 24.04.18
+! Version: 24.05.03
 
 ! 2021-03-15 https://www.youtube.com
 www.youtube.com##.ytp-ce-covering-overlay
