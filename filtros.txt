@@ -309,8 +309,8 @@ imgur.com##.Button.EmeraldButton
 ! 2023-03-17 https://www.cuatro.com
 www.cuatro.com##.watermarks__wrapper-1FZ2
 
-! 2023-03-22 https://twitter.com
-twitter.com##.tmd-down.tmd-img
+! 2023-03-22 https://x.com
+x.com##.tmd-down.tmd-img
 
 ! 2023-03-23 http://futboltvhd.live
 futboltvhd.live##center > center
@@ -462,8 +462,8 @@ www.lne.es##.wneomotoro
 ! 2024-01-06 https://megadeportestv2.com
 megadeportestv2.com##.text-center.d-flex.alert
 
-! 2024-01-11 https://twitter.com
-twitter.com##[href*="https://help.twitter.com/forms/dsa/report?"]
+! 2024-01-11 https://x.com
+x.com##[href*="https://help.x.com/forms/dsa/report?"]
 
 ! 2024-02-02 https://es.scribd.com
 es.scribd.com##.promo_div
@@ -486,8 +486,8 @@ teditv.telecable.es##li.cursor-pointer.hovered-element.statusChannel-overlay.ng-
 ! 2024-05-02 https://new.reddit.com
 new.reddit.com##._1dBtowHdRHcGyLbVEaOL8t
 
-! 2024-01-11 https://twitter.com
-twitter.com##[href*="/i/communitynotes"]
+! 2024-01-11 https://x.com
+x.com##[href*="/i/communitynotes"]
 
-! 2024-01-11 https://twitter.com
-twitter.com##[href*="/i/spaces/start"]
+! 2024-01-11 https://x.com
+x.com##[href*="/i/spaces/start"]
