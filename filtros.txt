@@ -3,7 +3,7 @@
 ! Description: Filtros para uBlock Origin
 ! Homepage: https://github.com/byjrg/adblock/tree/main
 ! License: MIT; https://github.com/byjrg/adblock/tree/main
-! Version: 24.05.04
+! Version: 24.05.19
 
 ! 2021-03-15 https://www.youtube.com
 www.youtube.com##.ytp-ce-covering-overlay
@@ -367,10 +367,10 @@ www.youtube.com###voice-search-button
 ! 2023-10-26 https://discord.com
 discord.com##.buttons_ce5b56 > .grow__4c8a4.colorBrand_b2253e.lookBlank__7ca0a.button_afdfd9
 
-! 2023-11-03 https://dlhd.sx
-dlhd.sx###sidebar
-dlhd.sx###featured
-dlhd.sx##p
+! 2023-11-03 https://dlhd.so
+dlhd.so###sidebar
+dlhd.so###featured
+dlhd.so##p
 
 ! 2023-11-05 https://www.google.com
 www.google.com###before-appbar
