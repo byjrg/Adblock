@@ -3,7 +3,7 @@
 ! Description: Filtros para uBlock Origin
 ! Homepage: https://github.com/byjrg/adblock/tree/main
 ! License: MIT; https://github.com/byjrg/adblock/tree/main
-! Version: 24.05.19
+! Version: 24.09.18
 
 ! 2021-03-15 https://www.youtube.com
 www.youtube.com##.ytp-ce-covering-overlay
@@ -336,20 +336,11 @@ www.twitch.tv##.video-preview-card-restriction
 ! 2023-04-24 https://www.atresplayer.com
 www.atresplayer.com##.style__StyledAdBlocker-sc-172oy2y-0
 
-! 2023-05-18 https://megadeportes.xyz
-megadeportes.xyz##.btn-md.btn-block.btn-lg.btn
-megadeportes.xyz##.border-top.pt-md-5.my-md-5.pt-4
-megadeportes.xyz##body > center
-megadeportes.xyz##h3
-
 ! 2023-06-19 https://www.youtube.com
 www.youtube.com##.style-default.ytd-masthead.style-scope
 
 ! 2023-07-17 https://www.bilibili.tv
 www.bilibili.tv##.ip-watermark
-
-! 2023-08-20 https://megadeportes.xyz
-megadeportes.xyz##.items-end.flex-col.flex.md\:col-span-2
 
 ! 2023-08-22 https://as.com
 as.com##.w_bsc.bscy
@@ -387,14 +378,6 @@ www.reddit.com##embed-snippet-share-button
 ! 2023-11-22 https://www.youtube.com
 youtube.com##+js(nano-stb, resolve(1), *, 0.001)
 youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_enable_ab_rsp_cl, false)
-
-! 2023-11-26 https://megadeportes.xyz
-megadeportes.xyz##.pad-0.col-xl-4.col-12
-megadeportes.xyz##.chat-container
-megadeportes.xyz##.card-center.card
-megadeportestv2.com##.pad-0.col-xl-4.col-12
-megadeportestv2.com##.chat-container
-megadeportestv2.com##.card-center.card
 
 ! 2023-11-26 https://elpais.com
 elpais.com##._pr.c_t_i-s
@@ -459,9 +442,6 @@ www.lavozdeasturias.es##.stickyVocento
 ! 2024-01-07 https://www.lne.es
 www.lne.es##.wneomotoro
 
-! 2024-01-06 https://megadeportestv2.com
-megadeportestv2.com##.text-center.d-flex.alert
-
 ! 2024-01-11 https://x.com
 x.com##[href*="https://help.x.com/forms/dsa/report?"]
 
@@ -491,3 +471,14 @@ x.com##[href*="/i/communitynotes"]
 
 ! 2024-01-11 https://x.com
 x.com##[href*="/i/spaces/start"]
+
+! 31 ago 2024 https://www.marca.com
+www.marca.com##.patrocinio-marcador
+
+! 18 sept 2024 https://deportestvhd3.com
+deportestvhd3.com##h3
+deportestvhd3.com##.alert
+deportestvhd3.com##.border-top.pt-md-5.my-md-5.pt-4
+deportestvhd3.com##[href="/dmca.html"]
+deportestvhd3.com##center > h5
+deportestvhd3.com##.btn-md.btn-block.btn-lg.btn
