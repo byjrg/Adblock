@@ -3,7 +3,7 @@
 ! Description: Filtros para uBlock Origin
 ! Homepage: https://github.com/byjrg/adblock/tree/main
 ! License: MIT; https://github.com/byjrg/adblock/tree/main
-! Version: 24.09.18
+! Version: 24.09.30
 
 ! 2021-03-15 https://www.youtube.com
 www.youtube.com##.ytp-ce-covering-overlay
@@ -482,3 +482,9 @@ deportestvhd3.com##.border-top.pt-md-5.my-md-5.pt-4
 deportestvhd3.com##[href="/dmca.html"]
 deportestvhd3.com##center > h5
 deportestvhd3.com##.btn-md.btn-block.btn-lg.btn
+
+! 18 sept 2024 https://www.youtube.com
+www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope
+
+! 19 sept 2024 https://www.atresplayer.com
+www.atresplayer.com##.pay-for-content
