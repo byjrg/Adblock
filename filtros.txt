@@ -1,6 +1,6 @@
 ! Title: Mis Filtros
 ! Expires: 1 day (update frequency)
-! Description: Filtros para uBlock Origin
+! Description: Filtros para uBlock Origin & AdGuard Blocker
 ! Homepage: https://github.com/byjrg/adblock/tree/main
 ! License: MIT; https://github.com/byjrg/adblock/tree/main
 ! Version: 24.09.30
@@ -488,3 +488,6 @@ www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope
 
 ! 19 sept 2024 https://www.atresplayer.com
 www.atresplayer.com##.pay-for-content
+
+! 16 oct 2024 https://forocoches.com
+forocoches.com###vbnotices > table.tborder:nth-child(5) > tbody > tr > td.alt1
