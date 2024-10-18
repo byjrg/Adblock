@@ -3,7 +3,7 @@
 ! Description: Filtros para uBlock Origin & AdGuard AdBlocker
 ! Homepage: https://github.com/byjrg/adblock/tree/main
 ! License: MIT; https://github.com/byjrg/adblock/tree/main
-! Version: 24.10.17
+! Version: 24.10.18
 
 ! 2021-03-15 https://www.youtube.com
 www.youtube.com##.ytp-ce-covering-overlay
@@ -494,3 +494,11 @@ forocoches.com###vbnotices > table.tborder:nth-child(5) > tbody > tr > td.alt1
 
 ! 17 oct 2024 https://www.lavozdeasturias.es
 www.lavozdeasturias.es##.ad_fixed_h
+
+! remove pink fade from youtube playback progress bar
+youtube.com##.ytp-cairo-refresh-signature-moments .ytp-play-progress:style(background: #FF0000 !important;)
+youtube.com##ytd-thumbnail-overlay-resume-playback-renderer[enable-refresh-signature-moments-web] #progress.ytd-thumbnail-overlay-resume-playback-renderer:style(background: #FF0000 !important;)
+
+! remove background transparency from youtube title bar
+youtube.com##hmtl, [light]:style(--yt-frosted-glass-desktop: rgba(255, 255, 255, 1.0) !important;)
+youtube.com##hmtl[dark], [dark]:style(--yt-frosted-glass-desktop: rgba(15, 15, 15, 1.0) !important;)
