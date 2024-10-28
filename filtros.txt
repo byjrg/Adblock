@@ -3,7 +3,7 @@
 ! Description: Filtros para uBlock Origin & AdGuard AdBlocker
 ! Homepage: https://github.com/byjrg/adblock/tree/main
 ! License: MIT; https://github.com/byjrg/adblock/tree/main
-! Version: 24.10.18
+! Version: 24.10.28
 
 ! 2021-03-15 https://www.youtube.com
 www.youtube.com##.ytp-ce-covering-overlay
@@ -372,9 +372,6 @@ www.mirror.co.uk##.ad-placeholder
 ! 2023-11-05 https://www.thesun.co.uk
 www.thesun.co.uk##.widget_thesun_dfp_ad_widget
 
-! 2023-11-08 https://www.reddit.com
-www.reddit.com##embed-snippet-share-button
-
 ! 2023-11-22 https://www.youtube.com
 youtube.com##+js(nano-stb, resolve(1), *, 0.001)
 youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_enable_ab_rsp_cl, false)
@@ -384,9 +381,6 @@ elpais.com##._pr.c_t_i-s
 
 ! 2023-11-26 https://www.lne.es
 www.lne.es##.header--claim
-
-! 2023-11-28 https://www.reddit.com
-www.reddit.com##.object-cover.opacity-30
 
 ! 2023-11-28 https://www.atresplayer.com
 ||statics.atresmedia.com/atresplayer/assets/web/images/player/wide-mosca.png$image
@@ -462,9 +456,6 @@ www.lavozdeasturias.es##.art-cl-patrocinio
 
 ! 2024-04-18 https://teditv.telecable.es
 teditv.telecable.es##li.cursor-pointer.hovered-element.statusChannel-overlay.ng-isolate-scope.ng-scope.float-left.wrap.book-font-type.secondary-bg-color.live-item
-
-! 2024-05-02 https://new.reddit.com
-new.reddit.com##._1dBtowHdRHcGyLbVEaOL8t
 
 ! 2024-01-11 https://x.com
 x.com##[href*="/i/communitynotes"]
