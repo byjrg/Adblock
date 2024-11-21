@@ -3,7 +3,7 @@
 ! Description: Filtros para uBlock Origin & AdGuard AdBlocker
 ! Homepage: https://github.com/byjrg/adblock/tree/main
 ! License: MIT; https://github.com/byjrg/adblock/tree/main
-! Version: 24.10.28
+! Version: 24.11.21
 
 ! 2021-03-15 https://www.youtube.com
 www.youtube.com##.ytp-ce-covering-overlay
@@ -493,3 +493,18 @@ youtube.com##ytd-thumbnail-overlay-resume-playback-renderer[enable-refresh-signa
 ! remove background transparency from youtube title bar
 youtube.com##hmtl, [light]:style(--yt-frosted-glass-desktop: rgba(255, 255, 255, 1.0) !important;)
 youtube.com##hmtl[dark], [dark]:style(--yt-frosted-glass-desktop: rgba(15, 15, 15, 1.0) !important;)
+
+! 5 nov 2024 https://www.youtube.com
+www.youtube.com###panels-full-bleed-container
+
+! 7 nov 2024 https://forocoches.com
+forocoches.com###notices-container
+forocoches.com###sidebar
+forocoches.com###social-networks
+
+! 7 nov 2024 https://forocoches.com 
+#tbody > tr > td[valign="top"]:has(div[id^="optidigital-adslot-"])
+#@#[align="center"]:has(div[id^="optidigital-adslot-"])
+
+! 12 nov 2024 https://www.reddit.com
+www.reddit.com##.tracking-tight.text-12.text-neutral-content
