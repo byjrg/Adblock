@@ -527,3 +527,16 @@ discord.com##.container_e5a9ed
 ! 17 dic 2024 https://www.mundoplus.tv
 www.mundoplus.tv##.td-a-ad
 www.mundoplus.tv##.td-adspot-title
+
+! 9 ene 2025 https://section.blog.naver.com
+section.blog.naver.com##.hot_topic
+
+! 21 ene 2025 https://zanex.lat
+zanex.lat##.embed-button
+
+! 29 ene 2025 https://vkvideo.ru
+vkvideo.ru###page_bottom_banners_root
+vkvideo.ru##.mv_info_narrow_column
+
+! 29 ene 2025 https://www.youtube.com
+www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
