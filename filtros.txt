@@ -562,3 +562,12 @@ www.laliga.com##.hNocuU.styled__Disclaimer-sc-1qml4wk-9
 ! 28 jul 2025 https://www.lne.es
 www.lne.es##.ft-mol-tapbar
 www.lne.es##.ft-org-cardHome--branded
+
+! 3 ago 2025 https://dlhd.click
+dlhd.click###sidebar
+
+! 3 ago 2025 https://www.mundoplus.tv
+www.mundoplus.tv##.banner-rotatorio
+
+! 3 ago 2025 https://www.reddit.com
+www.reddit.com##award-button
