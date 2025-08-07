@@ -608,3 +608,6 @@ www.mundodeportivo.com##.hidden-ad
 
 ! 7 ago 2025 https://www.lavozdeasturias.es
 www.lavozdeasturias.es###outbrain
+
+! 7 ago 2025 https://www.lne.es
+www.lne.es##.ft-ad
