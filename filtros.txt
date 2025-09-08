@@ -632,3 +632,6 @@ music.youtube.com###chips
 
 ! 1 sept 2025 https://www.sofascore.com
 www.sofascore.com##.odds-card
+
+! 8 sept 2025 https://killerasturias.com
+killerasturias.com##.justify-content-start.d-flex
