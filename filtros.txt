@@ -664,3 +664,12 @@ deportestvhd.de##center:nth-of-type(2)
 www.telemadrid.es##.ad-holder
 www.telemadrid.es##.card-advertising
 www.telemadrid.es##.share-tool
+
+! 8 dic 2025 https://www.twinkl.es
+www.twinkl.es##.cookie-consent-popup-container
+
+! 3 ene 2026 https://geo.dailymotion.com
+geo.dailymotion.com##.partner_watermark
+
+! 5 ene 2026 https://www.sport.es
+www.sport.es##.ft-mol-tapbar
