@@ -695,3 +695,5 @@ okdiario.com##.okd-cabecera-superior-derecha-newsletter
 www.elcomercio.es##.v-h__w--3.v-h__w > .v-btn-c
 www.elcomercio.es##.vjs-pip-container
 www.elcomercio.es##.v-ath__b
+www.elcomercio.es##.v-a-lnk > .v-a-lnk
+www.elcomercio.es##.v-ath--1.v-ath
