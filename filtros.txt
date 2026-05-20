@@ -3,7 +3,7 @@
 ! Description: Filtros para uBlock Origin & AdGuard AdBlocker
 ! Homepage: https://github.com/byjrg/adblock/tree/main
 ! License: MIT; https://github.com/byjrg/adblock/tree/main
-! Version: 26.02.21
+! Version: 26.05.20
 
 ! 2021-03-15 https://www.youtube.com
 www.youtube.com##.ytp-ce-covering-overlay
@@ -280,10 +280,6 @@ yaytext.com##.section.title_section
 ! 2023-03-08 http://futboltvhd.live
 futboltvhd.live##.photo
 
-! 2023-03-08 https://www.elcomercio.es
-www.elcomercio.es##.v-op__icon
-www.elcomercio.es##.v-mdl-bsn--ldk
-
 ! 2023-03-10 https://www.larazon.es
 www.larazon.es##.advertising.container
 www.larazon.es##.advertising
@@ -291,9 +287,6 @@ www.larazon.es##.advertising
 ! 2023-03-11 https://www.theguardian.com
 www.theguardian.com##.ad-slot-container
 www.theguardian.com##.top-banner-ad-container
-
-! 2023-03-11 https://www.elcomercio.es
-www.elcomercio.es##.v-h__user
 
 ! 2023-03-14 https://imgur.com
 imgur.com##.Gallery-Sidebar
@@ -320,9 +313,6 @@ cruzroja-lms.cclearning.accenture.com###section-0 > .content > .summary
 
 ! 2023-03-31 https://bard.google.com
 bard.google.com##.user-icon
-
-! 2023-04-01 https://www.elcomercio.es
-www.elcomercio.es##.v-stk-adv
 
 ! 2023-04-12 https://www.google.com
 www.google.com##.M8H8pb
@@ -387,9 +377,6 @@ www.lne.es##.header--claim
 
 ! 2023-12-13 https://www.lne.es
 www.lne.es##.sponsorship
-
-! 2023-12-13 https://www.elcomercio.es
-www.elcomercio.es##.v-c.v-h__on
 
 ! 2023-12-16 https://playdede.us
 playdede.us##[href^="https://vario.tv/"]
@@ -575,9 +562,6 @@ www.reddit.com##award-button
 ! 3 ago 2025 https://www.lne.es
 www.lne.es##.ft-org-header-regionales-menu__col-rgt
 
-! 3 ago 2025 https://www.elcomercio.es
-www.elcomercio.es##.v-cnt-m__w--2.v-cnt-m__w
-
 ! 3 ago 2025 https://www.marca.com
 www.marca.com##.ue-c-ad
 www.marca.com##.tools-header-corporative
@@ -677,9 +661,6 @@ www.sport.es##.ft-mol-tapbar
 ! 17 feb 2026 https://www.lne.es
 www.lne.es##.ft-org-masthead__top
 
-! 17 feb 2026 https://www.elcomercio.es
-www.elcomercio.es##.v-h__n
-
 ! 17 feb 2026 https://www.lavozdeasturias.es
 www.lavozdeasturias.es##.btn-inciar-sesion
 
@@ -695,3 +676,22 @@ www.sport.es##._mo_recs_cti
 
 ! 17 feb 2026 https://www.mundodeportivo.com
 www.mundodeportivo.com##.c-ads-banner--irr
+
+! 5 abr 2026 https://www.amimir.com
+www.amimir.com###acceptCookieModal > .modal-background
+www.amimir.com##.in.custom-modal-open.staticBackdrop.modal-centered.custom-modal
+
+! 22 abr 2026 https://www.twinkl.ie
+www.twinkl.ie##.cookie-consent-popup-container
+
+! 27 abr 2026 https://www.crtm.es
+www.crtm.es###overlay
+
+! 20 may 2026 https://okdiario.com
+okdiario.com###okd-catfish-heavy-users
+okdiario.com##.okd-cabecera-superior-derecha-newsletter
+
+! 20 may 2026 https://www.elcomercio.es
+www.elcomercio.es##.v-h__w--3.v-h__w > .v-btn-c
+www.elcomercio.es##.vjs-pip-container
+www.elcomercio.es##.v-ath__b
