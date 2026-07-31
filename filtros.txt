@@ -3,7 +3,7 @@
 ! Description: Filtros para uBlock Origin & AdGuard AdBlocker
 ! Homepage: https://github.com/byjrg/adblock/tree/main
 ! License: MIT; https://github.com/byjrg/adblock/tree/main
-! Version: 26.07.08
+! Version: 26.07.31
 
 ! 2021-03-15 https://www.youtube.com
 www.youtube.com##.ytp-ce-covering-overlay
@@ -658,3 +658,13 @@ www.elcomercio.es##.v-ath--1.v-ath
 
 ! 30 jun 2026 https://www.marca.com
 www.marca.com##.ue-c-tournament-group-stages-bar--sponsored
+
+! 12 jul 2026 https://as.com
+as.com##.w-scho_ad
+as.com##.spr-bc--eslaliga.spr-bc
+as.com##.ad-vtop
+as.com##.spr-bc
+
+! 31 jul 2026 https://www.mundodeportivo.com
+www.mundodeportivo.com##.c-ads
+www.mundodeportivo.com##.video-inline
