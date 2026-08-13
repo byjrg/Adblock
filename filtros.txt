@@ -668,3 +668,6 @@ as.com##.spr-bc
 ! 31 jul 2026 https://www.mundodeportivo.com
 www.mundodeportivo.com##.c-ads
 www.mundodeportivo.com##.video-inline
+
+! 13 ago 2026 https://as.com
+as.com##.ad-e2
